@@ -1,0 +1,29 @@
+.btn {
+    text-align: center;
+}
+
+#colcultor {
+    color: rgb(190, 154, 154);
+    border-radius: 5%;
+    width: 200px;
+    text-align: center;
+}
+
+#display {
+    margin: 10px;
+    width: 85;
+}
+
+.button-conatinar {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.button {
+    width: 45px;
+    height: 45px;
+    margin: 3px;
+
+
+}
